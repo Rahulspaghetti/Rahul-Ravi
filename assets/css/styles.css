@@ -1019,13 +1019,13 @@ body.dark-theme{
 }
 
 .contact__social-description-1{
-  color: var(--text-color-light);
+  color: var(--text-color);
   font-size: var(--small-font-size);
   margin-bottom: .5rem;
 }
 
 .contact__social-description-2{
-  color: var(--white-color);
+  color: var(--title-color);
   font-size: var(--small-font-size);
   font-weight: var(--font-semi-bold);
 }
